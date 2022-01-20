@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: se.sofia.lab.restapplicationperfectnumber.RestApplicationPerfectNumberApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.145 s - in se.sofia.lab.restapplicationperfectnumber.RestApplicationPerfectNumberApplicationTests
