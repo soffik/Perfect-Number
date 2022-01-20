@@ -9,7 +9,7 @@ To start the application, you can do one of the following:
 When the application is up an running you can do the following to see if a number is a perfect number:
 * Either type in your browser (where 6 can be replaced by other number as well): 
 ```
-http://localhost:8080/isPerfectNumber/6`
+http://localhost:8080/isPerfectNumber/6
 ```
 
 * Or use curl in terminal window: 
